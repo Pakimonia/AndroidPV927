@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ShopAuto</string>
+    <string name="first_name">Імя</string>
+    <string name="last_name">Прізвище</string>
+    <string name="username">Імя користувача</string>
+    <string name="email">Електронна пошта</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Підтвердьте пароль</string>
+    <string name="register">Реєстрація</string>
+    <string name="login">Вхід</string>
 </resources>
